@@ -1,0 +1,15 @@
+beautifulsoup4
+requests
+requests[socks]
+pandas
+matplotlib
+nltk
+scikit-learn
+click
+pymarc
+numpy
+spacy
+# stem # for tor
+seaborn
+scipy
+pre-commit
